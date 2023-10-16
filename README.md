@@ -9,5 +9,4 @@ Bem-vindo ao repositório da Etec Guarulhos! Este é um projeto de redesign do s
 O objetivo da BeKind é promover a solidariedade, a empatia e a compaixão em relação às pessoas em situação de vulnerabilidade. A plataforma visa conectar voluntários, vulneráveis e organizações que desejam fazer a diferença na vida dessas pessoas, fornecendo uma maneira fácil e eficiente de contribuir para a causa social.
 
   <img src="./assets/Prototipo.png" alt="Icon da Bekind" width="100%" />
-
-            
+     
