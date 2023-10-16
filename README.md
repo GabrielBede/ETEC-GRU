@@ -6,7 +6,8 @@ Bem-vindo ao repositório da Etec Guarulhos! Este é um projeto de redesign do s
 
 ## ✏️ Protótipo
 
-O objetivo da BeKind é promover a solidariedade, a empatia e a compaixão em relação às pessoas em situação de vulnerabilidade. A plataforma visa conectar voluntários, vulneráveis e organizações que desejam fazer a diferença na vida dessas pessoas, fornecendo uma maneira fácil e eficiente de contribuir para a causa social.
+Você pode visualizar o protótipo do redesign do site da Etec de Guarulhos no Figma. O protótipo é uma representação visual do novo design e layout proposto para o site.
 
+[Link para o Protótipo no Figma](https://www.figma.com/file/ZEjMs6FYQWdxU8wvzgyg44/Projeto---ETEC?type=design&node-id=0%3A1&mode=design&t=ESgh045AUnLXeA0u-1)
   <img src="./assets/Prototipo.png" alt="Icon da Bekind" width="100%" />
      
